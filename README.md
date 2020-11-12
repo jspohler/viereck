@@ -1,2 +1,2 @@
 # Viereck
-first semester task in programming
+first semester programming task
